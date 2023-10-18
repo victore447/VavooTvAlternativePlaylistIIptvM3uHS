@@ -3,6 +3,7 @@
 
 ![maxresdefault](https://github.com/victore447/-Vavoo-Tv-alternative-aux-playlist-iptv-m3u-HS-/assets/48101775/eed50dcb-3f8f-4424-a9ec-58f85d574ab1)
 
+![133](https://github.com/victore447/VavooTvAlternativePlaylistIIptvM3uHS/assets/48101775/5a18b914-4748-40b4-8df1-4e145c9feb2d)
 ></details>
 ### <li>- [x] 🇬🇧 OBJET (English version) </li>
 <summary><b><u>Click on the black icon to see (Cliquer sur l'icone noir pour voir):</u></b></summary>
@@ -12,7 +13,7 @@ Only Films and series are in German, but other content such as video plugins are
 It also allows you to access content from various other sources (called Bundles).
 
 To activate it, simply extract the RAR file and read the instructions in the txt file to insert the URL
-and added the French translation plugin (links below).
+and added the French translation plugin (links below).☝️ All it needs is the TV guide for the channels.
   
 ![vavoo1](https://github.com/victore447/-Vavoo-Tv-alternative-aux-playlist-iptv-m3u-HS-/assets/48101775/c82e76c5-4f45-4432-a703-c8ab5a4dd15f)
 ![vavoo](https://github.com/victore447/-Vavoo-Tv-alternative-aux-playlist-iptv-m3u-HS-/assets/48101775/dbed617f-378c-435e-b5ee-5893dd2ac4cf)
@@ -27,7 +28,7 @@ Seul les Films et series sont en langue allemande,mais d'autres contenus comme d
 Il vous permet également d'accéder au contenu de diverses autres sources (appelées Bundles).
 
 Pour l'activer il vous suffit d'extraire le fichier RAR et lire les instructions du fichier txt pour inserer l'Url
-et ajouté le plugin de traduction en francais (liens ci-dessous). 
+et ajouté le plugin de traduction en francais (liens ci-dessous). ☝️ Il lui manque juste le guide tv pour les chaines.
   
 ![vavoo1](https://github.com/victore447/-Vavoo-Tv-alternative-aux-playlist-iptv-m3u-HS-/assets/48101775/c82e76c5-4f45-4432-a703-c8ab5a4dd15f)
 ![vavoo](https://github.com/victore447/-Vavoo-Tv-alternative-aux-playlist-iptv-m3u-HS-/assets/48101775/dbed617f-378c-435e-b5ee-5893dd2ac4cf)
