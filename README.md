@@ -1,8 +1,10 @@
-# -Vavoo-Tv-alternative-aux-playlist-iptv-m3u-HS-
+# Vavoo Tv alternative aux playlist Iptv m3u HS
 🖐️App Vavoo 📺 Iptv  (playlist Tv France &amp; World)
 
+![maxresdefault](https://github.com/victore447/-Vavoo-Tv-alternative-aux-playlist-iptv-m3u-HS-/assets/48101775/eed50dcb-3f8f-4424-a9ec-58f85d574ab1)
+
 ></details>
-### <li>- [x] OBJET (English version) </li>
+### <li>- [x] 🇬🇧 OBJET (English version) </li>
 <summary><b><u>Click on the black icon to see (Cliquer sur l'icone noir pour voir):</u></b></summary>
 ><details>
 > 👆This app is an IPTV available for Android. You can see all the channels 🇨🇵 French etc.,
@@ -17,7 +19,7 @@
 
 
 ></details>
-### <li>- [x] OBJET (French version) </li>
+### <li>- [x] 🇫🇷 OBJET (French version) </li>
 <summary><b><u>Click on the black icon to see (Cliquer sur l'icone noir pour voir):</u></b></summary>
 ><details>
 > 👆 Cette applis est une IPTV disponible pour Android.Vous pouvez voir toutes les chaintes 🇨🇵 Francaise etc.., 
