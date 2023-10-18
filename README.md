@@ -35,13 +35,16 @@ et ajouté le plugin de traduction en francais (liens ci-dessous).
 
 ></details>
 ### <li>- [x] APK: </li>
-![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+👇 ![26](https://github.com/victore447/-Vavoo-Tv-alternative-aux-playlist-iptv-m3u-HS-/assets/48101775/9e2f355c-30b9-4894-b163-831a5a7baa03)
 ><details>
 >  <summary><b><u>Click on the black icon to see (Cliquer sur l'icone noir pour voir):</u></b></summary>
 >  
 > - 🖲️ **[Vavoo RAR 1fichier.com](https://1fichier.com/?4xtirbl1rsyogh95fu7h&af=2549450)**
 > - 🖲️ **[Vavvo RAR Google Drive](https://drive.google.com/drive/folders/1YCgJVUu4QOgo4oYBUptHNSrIfwh9Wfk8)**
 
+> 
+></details>
 
+### <li>- [x] 👌 star✔️ </li>![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
 
 
