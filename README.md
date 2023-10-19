@@ -6,7 +6,7 @@
 ![133](https://github.com/victore447/VavooTvAlternativePlaylistIIptvM3uHS/assets/48101775/5a18b914-4748-40b4-8df1-4e145c9feb2d)
 ></details>
 ### <li>- [x] 🇬🇧 OBJET (English version) </li>
-<summary><b><u>Click on the black icon to see (Cliquer sur l'icone noir pour voir):</u></b></summary>
+<summary><b><u>Click on the black icon to see:</u></b></summary>
 <details>
 👆This app is an IPTV available for Android. You can see all the channels 🇨🇵 French etc.,
 Only Films and series are in German, but other content such as video plugins are available.
@@ -24,7 +24,7 @@ And you have peace of mind for the end of year holidays and for a long time.
 
 ></details>
 ### <li>- [x] 🇫🇷 OBJET (French version) </li>
-<summary><b><u>Click on the black icon to see (Cliquer sur l'icone noir pour voir):</u></b></summary>
+<summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 <details>
 👆 Cette applis est une IPTV disponible pour Android.Vous pouvez voir toutes les chaintes 🇨🇵 Francaise etc.., 
 Seul les Films et series sont en langue allemande,mais d'autres contenus comme des plugins videos sont disponibles.
@@ -48,6 +48,7 @@ Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 >  
 > - 🖲️ **[Vavoo RAR 1fichier.com](https://1fichier.com/?4xtirbl1rsyogh95fu7h&af=2549450)**
 > - 🖲️ **[Vavvo RAR Mega.nz](https://mega.nz/folder/ImBlBZyT#9LK4Xcvld2TRXGer5yPWHQ)**
+> - 🖲️ **[All Vavoo Bundle URLs](https://archive.org/details/vavoo-box)**
 
 > 
 ></details>
