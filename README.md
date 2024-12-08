@@ -46,10 +46,10 @@ Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 ><details>
 >  <summary><b><u>Click on the black icon to see (Cliquer sur l'icone noir pour voir):</u></b></summary>
 >  
-> - 🖲️ **[Vavoo RAR 1fichier.com](https://1fichier.com/?4xtirbl1rsyogh95fu7h&af=2549450)**
-> - 🖲️ **[Vavvo RAR Mega.nz](https://mega.nz/folder/N6JSTQqL#Av1qLUk9wr4qlYRDgmvbYA)**
-> - 🖲️ **[All Vavoo Bundle URLs](https://archive.org/details/vavoo-box)**
-
+> - 🖲️ **[Vavoo RAR Mega.nz](https://mega.nz/folder/N6JSTQqL#Av1qLUk9wr4qlYRDgmvbYA)**
+> - 🖲️ **[Vavvo RAR 1fichier.com](https://1fichier.com/?4xtirbl1rsyogh95fu7h&af=2549450)**
+> - 🖲️ **[All Url Vavoo Bundle URLs](https://archive.org/details/vavoo-box)**
+  
 > 
 ></details>
 
